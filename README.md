@@ -37,17 +37,17 @@
     target="blank"
     ><img
       align="center"
-      src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg"
+      src="https://skillicons.dev/icons?i=linkedin"
       alt="https://www.linkidin.com/in/nawfs-ul-ahsun"
-      height="30"
+      height="40"
       width="40"
   /></a>
-  <a href="https://fb.com/https://www.facebook.com/nawfs-arnob" target="blank"
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nawfs.cs254@gmail.com " target="blank"
     ><img
       align="center"
-      src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg"
-      alt="https://www.facebook.com/nawfs-arnob"
-      height="30"
+      src="https://skillicons.dev/icons?i=gmail"
+      alt="https://mail.google.com/mail/?view=cm&fs=1&to=nawfs.cs254@gmail.com"
+      height="40"
       width="40"
   /></a>
   <a
@@ -55,19 +55,9 @@
     target="blank"
     ><img
       align="center"
-      src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg"
+      src="https://skillicons.dev/icons?i=instagram"
       alt="https://www.instagram.com/nawfs.arnob"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://www.youtube.com/c/https://www.youtube.com/@nawfs-arnob"
-    target="blank"
-    ><img
-      align="center"
-      src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg"
-      alt="https://www.youtube.com/@nawfs-arnob"
-      height="30"
+      height="40"
       width="40"
   /></a>
 </p>
