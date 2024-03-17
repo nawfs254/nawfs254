@@ -6,10 +6,13 @@
   <img
     src="https://komarev.com/ghpvc/?username=nawfs254&label=Profile%20views&color=0e75b6&style=flat"
     alt="nawfs254"
+  /><br>
+  <img
+    src="https://img.shields.io/github/followers/nawfs254.svg?style=flat&label=Followers&maxAge=2592000"
+    alt=""
   />
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EngincanV?tab=followers)
 
 
 <p align="left">
