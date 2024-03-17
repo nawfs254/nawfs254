@@ -9,7 +9,7 @@
   />
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/Followers?style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EngincanV?tab=followers)
 
 
 <p align="left">
