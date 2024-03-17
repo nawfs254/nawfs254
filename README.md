@@ -9,6 +9,9 @@
   />
 </p>
 
+![GitHub followers](https://img.shields.io/github/followers/Followers?style=for-the-badge)
+
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
