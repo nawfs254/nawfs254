@@ -31,9 +31,10 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **React JS** - 💬 Ask me about **Web Development** -
-📫 How to reach me **nawfs.cs254@gmail.com** - 📄 Know about my experiences
-[https://drive.google.com/file/d/1GSBohAnQZsKn1KmyUhmTZEY9IfSC-XEI/view?usp=drivesdk](https://drive.google.com/file/d/1GSBohAnQZsKn1KmyUhmTZEY9IfSC-XEI/view?usp=drivesdk)
+- 🌱 I’m currently learning **React JS**
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me **nawfs.cs254@gmail.com**
+- 📄 Know more about me - <a href="https://drive.google.com/file/d/1GSBohAnQZsKn1KmyUhmTZEY9IfSC-XEI/view?usp=drivesdk](https://drive.google.com/file/d/1GSBohAnQZsKn1KmyUhmTZEY9IfSC-XEI/view?usp=drivesdk">**My CV**</a>
 - ⚡ Hobbies **Playing Guitar, Keyboard, Singing**
 
 <h3 align="left">Connect with me:</h3>
@@ -70,7 +71,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,tailwind,react,bootstrap,wordpress,vscode,c,cpp,py,github,github,figma,ps,ai,pr,xd,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,bootstrap,wordpress,vscode,c,cpp,py,github,figma,ps,ai,pr,xd,linux,windows)](https://skillicons.dev)
 
 <p>
   <img
