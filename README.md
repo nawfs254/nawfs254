@@ -71,7 +71,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,bootstrap,wordpress,vscode,c,cpp,py,github,figma,ps,ai,pr,xd,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,firebase,mongodb,vscode,bootstrap,wordpress,c,cpp,py,github,figma,ps,ai,pr,xd,linux,windows)](https://skillicons.dev)
 
 <p>
   <img
